@@ -1,0 +1,5 @@
+In this question we use for loop and the we transverse that throughout the strength of the string. We are following the approach of the sliding window and we have 
+initialise l that is left as 0.It's time we grow it possible we store the element and the position of that element in the list inside or dictionary.So first we check
+whether the given corresponding character of the right excess in the dictionary or not fed doesn't exist than we update the maximum or else we make sure that the index 
+in which the the particular character is present as an inside the sliding window. If it is not present in the sliding window we update the maximum term else we cut of 
+the length of the sliding window by increasing the variable left.
